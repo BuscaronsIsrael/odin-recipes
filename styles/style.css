@@ -1,0 +1,42 @@
+body {
+    background-color: #f4976c;
+}
+
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    color: #303C6C;
+}
+
+h2 {
+    text-align: center;
+}
+
+.one {
+    font-size: 2rem;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.present {
+    padding: 5rem;
+    font-size: 23px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.ingr {
+    padding: 5px;
+}
